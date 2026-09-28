@@ -2,6 +2,7 @@
 
 int a,b;
 int main(void){
+	printf("This is a calculator\n");
 	printf("Enter your numbers :");
 	fflush(stdout);
 	scanf("%d %d",&a,&b);
