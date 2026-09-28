@@ -8,6 +8,7 @@ int main(void){
 	scanf("%d %d",&a,&b);
 	printf("Sum is %d\n",a+b);
 	printf("Difference is %d\n",a-b);
+	printf("Product is %d",a*b);
 	return 0;
 
 }
