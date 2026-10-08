@@ -7,4 +7,3 @@ void checkThreshold(int value, int limit) {
 }
 
 
-// TODO experimental: try alternate threshold logic
