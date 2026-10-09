@@ -13,7 +13,7 @@ int countAbove(int arr[], int n, int limit) {
 int main(void) {
     int readings[] = {23, 25, 22, 30, 28};
 
-    printf("Count above threshold: %d\n", countAbove(readings, 5, 24));
+    printf("Count above threshold: %d\n", countAbove(readings, 5, 27));
 
     return 0;
 }
