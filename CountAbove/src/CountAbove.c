@@ -17,5 +17,5 @@ int main(void) {
 
     return 0;
 }
-\n// no functional change, just a comment
-// Adding new comment
+// no functional change, just a comment
+// Editing new comment
