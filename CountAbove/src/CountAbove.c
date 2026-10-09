@@ -17,3 +17,4 @@ int main(void) {
 
     return 0;
 }
+\n// no functional change, just a comment
