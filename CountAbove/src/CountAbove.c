@@ -2,7 +2,7 @@
 
 int countAbove(int arr[], int n, int limit) {
     int i, count = 0;
-    for (i = 0; i < n; i++) {
+    for (i = 0; i <=n; i++) {
         if (arr[i] > limit) {
             count++;
         }
