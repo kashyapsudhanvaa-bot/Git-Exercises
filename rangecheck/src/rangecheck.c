@@ -15,7 +15,7 @@
  void rangeCheck(int value, int low, int high)
  {
 	 if (value < low || value > high)
-		 printf("Out of range: %d\n", value);
+		 printf("Out of range: %d (limits enforced)\n", value);
 
 }
 
